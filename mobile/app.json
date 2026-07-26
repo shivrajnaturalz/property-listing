@@ -1,0 +1,8 @@
+{
+  "expo": {
+    "name": "Property Listing Mobile",
+    "slug": "property-listing-mobile",
+    "version": "1.0.0",
+    "assetBundlePatterns": ["**/*"]
+  }
+}
